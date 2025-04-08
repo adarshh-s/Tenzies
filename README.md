@@ -14,6 +14,6 @@ A fun and simple dice game built with **React**. Roll the dice until all numbers
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/tenzies-game.git
-   cd tenzies-game
+   git clone (https://github.com/adarshh-s/Tenzies.git)
+
    ```
